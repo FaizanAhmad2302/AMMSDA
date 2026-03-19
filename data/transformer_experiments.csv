@@ -1,0 +1,6 @@
+experiment,attention_heads,bleu_score,training_time_hours,parameters_million
+Exp1,4,25.3,12,45
+Exp2,8,27.8,18,65
+Exp3,16,28.4,24,95
+Exp4,32,28.1,36,145
+Exp5,64,27.2,48,210
