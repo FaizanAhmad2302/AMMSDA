@@ -1,6 +1,6 @@
 ---
 title: AMMSDA
-emoji: ??
+emoji: 🔬
 colorFrom: blue
 colorTo: green
 sdk: gradio
@@ -10,7 +10,7 @@ pinned: false
 ---
 ---
 title: AMMSDA
-emoji: ??
+emoji: 🔬
 colorFrom: blue
 colorTo: green
 sdk: gradio
