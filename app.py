@@ -194,4 +194,4 @@ with gr.Blocks(title="AMMSDA - Scientific Discovery Agent") as app:
 
 if __name__ == "__main__":
     print("🚀 Launching AMMSDA...")
-    app.launch(share=False)
+    app.launch(server_name="0.0.0.0", server_port=7860)
