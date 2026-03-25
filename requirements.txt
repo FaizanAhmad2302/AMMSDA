@@ -10,4 +10,4 @@ gradio
 networkx
 matplotlib
 pandas
-pyaudioop
+audioop-lts
