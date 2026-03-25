@@ -8,16 +8,6 @@ sdk_version: 5.0.0
 app_file: app.py
 pinned: false
 ---
----
-title: AMMSDA
-emoji: 🔬
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 5.0.0
-app_file: app.py
-pinned: false
----
 # 🧬 Autonomous Multi-Modal Scientific Discovery Agent (AMMSDA)
 
 > An AI-powered research assistant that reads multiple scientific papers and datasets, finds hidden connections, and autonomously generates hypotheses, experiment plans, and knowledge graphs.
