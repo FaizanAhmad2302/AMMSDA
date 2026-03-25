@@ -11,3 +11,4 @@ networkx
 matplotlib
 pandas
 audioop-lts
+pydantic<2.10
