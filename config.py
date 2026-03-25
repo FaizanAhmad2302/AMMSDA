@@ -1,10 +1,10 @@
 import os
 from dotenv import load_dotenv
 
-# Load environment variables
+# Load environment variables (works locally)
 load_dotenv()
 
-# API Keys
+# API Keys - works both locally and on Hugging Face
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 # Model Settings
@@ -20,6 +20,6 @@ CHUNK_OVERLAP = 50
 
 # Validate API Key
 if not GROQ_API_KEY:
-    raise ValueError("GROQ_API_KEY not found! Please check your .env file.")
+    raise ValueError("GROQ_API_KEY not found! Please check your .env file or Space secrets.")
 else:
     print("✅ Config loaded successfully!")
