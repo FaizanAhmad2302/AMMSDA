@@ -1,0 +1,12 @@
+groq
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+pypdf2
+python-dotenv
+sentence-transformers
+gradio
+networkx
+matplotlib
+pandas
